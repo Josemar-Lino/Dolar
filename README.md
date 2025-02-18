@@ -31,5 +31,16 @@ Este projeto é uma aplicação simples que consulta a cotação do dólar em te
 
 3. Abra o arquivo `index.html` em seu navegador para visualizar a aplicação funcionando.
 
-## Estrutura do Projeto
+## Exemplo de Uso
+
+A cotação do dólar será exibida automaticamente ao carregar a página. A aplicação consome a API para obter a cotação em tempo real e exibe o valor de USD para BRL.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Autor
+
+[Josemar Lino](https://github.com/Josemar-Lino)
+
 
